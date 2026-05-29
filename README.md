@@ -230,10 +230,6 @@ The dashboard helps improve:
 
 # 📸 Dashboard Preview
 
-![image alt]()
+![image alt](https://github.com/Ganeshahaha/Executive-Finance-Summary-Dashboard/blob/c9557b6049ab6fc40cefad3f2a7e8aad54562b92/Dashboard.png)
 
-# 👨‍💻 Author
 
-## Ganesh Goyal
-
-MS in Finance | Financial & Data Analytics Enthusiast | Power BI Developer
