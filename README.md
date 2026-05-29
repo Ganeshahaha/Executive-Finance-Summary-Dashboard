@@ -1,6 +1,6 @@
-# 💰 Executive Finance Summary Dashboard
+# Executive Finance Summary Dashboard
 
-# 📌 Project Overview
+# Project Overview
 
 The Executive Finance Summary Dashboard is an interactive Power BI project designed to transform raw financial data into actionable business insights through dynamic visualizations and KPI-driven reporting.
 
@@ -10,7 +10,7 @@ This project focuses on simplifying complex financial analytics into a clean, in
 
 ---
 
-# 🎯 Business Problem
+# Business Problem
 
 Organizations generate large amounts of financial and operational data daily. However, extracting meaningful insights from raw financial datasets can be difficult due to:
 
@@ -24,7 +24,7 @@ Without an effective reporting solution, stakeholders often struggle to make fas
 
 ---
 
-# 🎯 Goal of the Dashboard
+# Goal of the Dashboard
 
 The goal of this dashboard was to create an executive-friendly financial reporting solution that:
 
@@ -37,7 +37,7 @@ The goal of this dashboard was to create an executive-friendly financial reporti
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -53,7 +53,7 @@ The dashboard was built using the following tools and technologies:
 
 ---
 
-# 📂 Data Source
+# Data Source
 
 The project uses financial and operational datasets containing:
 
@@ -66,9 +66,9 @@ The project uses financial and operational datasets containing:
 
 ---
 
-# ✨ Dashboard Features & Highlights
+# Dashboard Features & Highlights
 
-## 📈 KPI Summary Cards
+# KPI Summary Cards
 
 The dashboard includes executive-level KPI cards displaying:
 
@@ -83,7 +83,7 @@ These KPIs provide a quick overview of overall business performance.
 
 ---
 
-## 📊 Revenue Trend Analysis
+# Revenue Trend Analysis
 
 Interactive line charts visualize revenue performance over time, helping identify:
 
@@ -94,7 +94,7 @@ Interactive line charts visualize revenue performance over time, helping identif
 
 ---
 
-## 💸 Expense Breakdown Analysis
+# Expense Breakdown Analysis
 
 Bar and categorical charts analyze operational expenses across different categories, enabling users to:
 
@@ -104,7 +104,7 @@ Bar and categorical charts analyze operational expenses across different categor
 
 ---
 
-## 🛍 Product-Level Revenue Insights
+# Product-Level Revenue Insights
 
 Product performance visuals help identify:
 
@@ -115,7 +115,7 @@ Product performance visuals help identify:
 
 ---
 
-## 📅 Time-Based Financial Reporting
+# Time-Based Financial Reporting
 
 Dynamic date slicers and filters allow users to perform:
 
@@ -126,7 +126,7 @@ Dynamic date slicers and filters allow users to perform:
 
 ---
 
-## 🔍 Interactive Dashboard Experience
+# Interactive Dashboard Experience
 
 The dashboard includes:
 
@@ -139,7 +139,7 @@ This improves usability and enables deeper financial analysis.
 
 ---
 
-# ⚡ Challenges Faced During the Project
+# Challenges Faced During the Project
 
 ## 1. Unstructured and Inconsistent Raw Data
 
@@ -155,7 +155,7 @@ These inconsistencies affected reporting accuracy and time-based calculations.
 
 ---
 
-## 2. Building Accurate Financial KPIs
+# 2. Building Accurate Financial KPIs
 
 Creating reliable financial metrics such as:
 
@@ -168,7 +168,7 @@ required careful DAX calculations and strong data modeling techniques.
 
 ---
 
-## 3. Designing an Executive-Friendly Dashboard
+# 3. Designing an Executive-Friendly Dashboard
 
 Another major challenge was presenting complex financial data in a way that executives and non-technical users could easily understand.
 
@@ -181,7 +181,7 @@ The dashboard required multiple design iterations to balance:
 
 ---
 
-# ✅ How I Solved These Challenges
+#  How I Solved These Challenges
 
 To overcome these issues, I:
 
@@ -193,7 +193,7 @@ To overcome these issues, I:
 
 ---
 
-# 📚 Key Learnings From This Project
+# Key Learnings From This Project
 
 Through this project, I learned:
 
@@ -216,7 +216,7 @@ This project significantly strengthened my skills in:
 
 ---
 
-# 💡 Business Impact
+# Business Impact
 
 The dashboard helps improve:
 
@@ -228,7 +228,7 @@ The dashboard helps improve:
 
 ---
 
-# 📸 Dashboard Preview
+# Dashboard Preview
 
 ![image alt](https://github.com/Ganeshahaha/Executive-Finance-Summary-Dashboard/blob/c9557b6049ab6fc40cefad3f2a7e8aad54562b92/Dashboard.png)
 
